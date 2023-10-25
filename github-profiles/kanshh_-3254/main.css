@@ -10,18 +10,6 @@ body {
   padding: 4em 1em;
 }
 
-a[href="https://github.com/Diegu32"] {
-  display: inline-block;
-  background-color: whitesmoke;
-  color: #333;
-  padding: 10px;
-  border-radius: 5px;
-  text-decoration: none;
-}
-
-a[href="https://github.com/Diegu32"]:hover {
-  background-color: chartreuse;
-}
 
 p {
   padding: 8px;
